@@ -520,6 +520,15 @@ section {
   .contact-content-con {
     flex-direction: column;
   }
+  .contact-content-con .left-contact .contact-info .contact-item {
+    text-align: center;
+  }
+  .contact-info {
+    padding-bottom: 70px;
+  }
+  .contact-container {
+    text-align: center;
+  }
   .contact-item {
     flex-direction: column;
     margin: 1rem 0;
